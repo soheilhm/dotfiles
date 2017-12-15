@@ -1,8 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
 # Please adapt and uncomment the following lines:
-#	name = Joshua Lim
-#	email = joshualim@Joshuas-MBP.hitronhub.home
+#	name = soheil
+#	email = soheil.h@bananatag.com
 [core]
 	editor = vim
 [push]
